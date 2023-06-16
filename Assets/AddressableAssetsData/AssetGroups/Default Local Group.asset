@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ddf498c633f69ce4e942964ca4a992d1
+  m_SerializeEntries:
+  - m_GUID: eb4a97c75dff818439336f21d52f10a0
+    m_Address: Assets/Accodion/DSC01619.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5aa77a0224457a4a9fabcb7ebb5d1b4
+    m_Address: Assets/Accodion/DSC01622.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7d2a3b79a1bde042b9647e173dc8f61
+    m_Address: Assets/Models/mineLab F3/MayDo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f59672c844407441a94c241d7bbcc87
+    m_Address: Assets/Models/Boats/prefabs/XUONG.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 580228496a5ce1c459bc52c6eda3c2fb
+    m_Address: Assets/Accodion/Prefabs/Cube (4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1068a7d134f197a479309140a9e2d091
+    m_Address: Assets/Accodion/Prefabs/Cube (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91c2adf2e4b534d40b7d1487f2e958be
+    m_Address: Assets/Accodion/Prefabs/Cube (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a95332a831d807148bbe2f5991129b22
+    m_Address: Assets/Accodion/Prefabs/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a063e1598f990e4998d859fbb8f77cc
+    m_Address: Assets/Accodion/Prefabs/Cube (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TextureImage
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f8d88f3da2e96540b95492cda1d3b99
+    m_Address: Assets/DKZ73/Quad.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5504ee24792858e4794dcbf133161cc1
+    m_Address: Assets/DKZ73/Quad (3).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a645906715d8dd49b99fff4cf904790
+    m_Address: Assets/DKZ73/Quad (2).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e06045a41f323044805cfe385ae08d0
+    m_Address: Assets/DKZ73/Quad (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b15b4059cd721844086e801ad4af554a
+    m_Address: Assets/DKZ73/Quad (4).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7982e84851bda94c86c5c7cf06b7868
+    m_Address: Assets/DKZ73/Quad (5).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8da694a930111b348a753651611a45ca, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4ecbcb08a422a4246a18f09f18e43387, type: 2}
+    - {fileID: 11400000, guid: c91d661299b12c744a0a529c13280c7c, type: 2}

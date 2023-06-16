@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: b66b922e64c177b469d2455a347a8c47
+timeCreated: 1583738926
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boss-Extrude1
+    100002: Boss-Extrude16
+    100004: Boss-Extrude2
+    100006: Boss-Extrude2 1
+    100008: Cut-Extrude13
+    100010: Cut-Extrude3
+    100012: Cut-Extrude4
+    100014: Cut-Extrude4 1
+    100016: Fillet1
+    100018: //RootNode
+    100020: Revolve1
+    400000: Boss-Extrude1
+    400002: Boss-Extrude16
+    400004: Boss-Extrude2
+    400006: Boss-Extrude2 1
+    400008: Cut-Extrude13
+    400010: Cut-Extrude3
+    400012: Cut-Extrude4
+    400014: Cut-Extrude4 1
+    400016: Fillet1
+    400018: //RootNode
+    400020: Revolve1
+    2100000: 04 - Default
+    2100002: 02 - Default
+    2100004: 'Material #28'
+    2100006: 01 - Default
+    2100008: 03 - Default
+    2300000: Boss-Extrude1
+    2300002: Boss-Extrude16
+    2300004: Boss-Extrude2
+    2300006: Boss-Extrude2 1
+    2300008: Cut-Extrude13
+    2300010: Cut-Extrude3
+    2300012: Cut-Extrude4
+    2300014: Cut-Extrude4 1
+    2300016: Fillet1
+    2300018: Revolve1
+    3300000: Boss-Extrude1
+    3300002: Boss-Extrude16
+    3300004: Boss-Extrude2
+    3300006: Boss-Extrude2 1
+    3300008: Cut-Extrude13
+    3300010: Cut-Extrude3
+    3300012: Cut-Extrude4
+    3300014: Cut-Extrude4 1
+    3300016: Fillet1
+    3300018: Revolve1
+    4300000: Cut-Extrude3
+    4300002: Cut-Extrude4
+    4300004: Cut-Extrude4
+    4300006: Boss-Extrude16
+    4300008: Cut-Extrude13
+    4300010: Boss-Extrude2
+    4300012: Boss-Extrude1
+    4300014: Boss-Extrude2
+    4300016: Revolve1
+    4300018: Fillet1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
